@@ -25,7 +25,7 @@ what determines a change of version?
 
 	•	Use git tags for versioning.
 	
-	•	Apply semantic versioning rules in the   format.
+	•	Apply semantic versioning rules in the [v.MAJOR.MINOR.PATCH] format.
 	
 	•	Any non-backwards compatible changes are considered a MAJOR change, and therefore the versioning should increment the MAJOR number.
 	
